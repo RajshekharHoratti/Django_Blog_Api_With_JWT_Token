@@ -35,3 +35,4 @@ URL = http://127.0.0.1:8000/create_blog/
 BODY = title, description
 HEADERS = Content-Type = application/json, Authorization = JWT { YOUR_JWT_TOKEN }
 </pre>
+
